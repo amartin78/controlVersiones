@@ -1,12 +1,11 @@
 package controlVersiones;
 
-public class NavegacionDatos {
+public class Articulos {
 
 	public static void main(String[] args) {
 		// TODO Esbozo de método generado automáticamente
 
-		System.out.println("Menu 1 - Opcion 1");
-		System.out.println("Menu 1 - Opcion 2");
+		System.out.println("Articulo 1");
 	}
 
 }
