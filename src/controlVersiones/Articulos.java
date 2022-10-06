@@ -6,6 +6,7 @@ public class Articulos {
 		// TODO Esbozo de método generado automáticamente
 
 		System.out.println("Articulo 1");
+		System.out.println("Articulo 2");
 	}
 
 }
